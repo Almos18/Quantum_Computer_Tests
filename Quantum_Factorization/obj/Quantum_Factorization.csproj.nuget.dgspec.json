@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Paradox\\Documents\\Quantum_Factorization\\Quantum_Factorization.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Paradox\\Documents\\Quantum_Factorization\\Quantum_Factorization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paradox\\Documents\\Quantum_Factorization\\Quantum_Factorization.csproj",
+        "projectName": "Quantum_Factorization",
+        "projectPath": "C:\\Users\\Paradox\\Documents\\Quantum_Factorization\\Quantum_Factorization.csproj",
+        "packagesPath": "C:\\Users\\Paradox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paradox\\Documents\\Quantum_Factorization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paradox\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Canon": {
+              "target": "Package",
+              "version": "[0.5.1903.2902, )"
+            },
+            "Microsoft.Quantum.Development.Kit": {
+              "target": "Package",
+              "version": "[0.5.1903.2902, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

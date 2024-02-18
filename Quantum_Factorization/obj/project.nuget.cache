@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nttATi41Q7l8kKDYRxYrnNvZqIXvY4ZEMv656uEbpRVpvxJFXTwN0OhtFRlRwrgON8vaBTZBFBTSzkbTcxEShQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paradox\\Documents\\Quantum_Factorization\\Quantum_Factorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.quantum.canon\\0.5.1903.2902\\microsoft.quantum.canon.0.5.1903.2902.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.quantum.development.kit\\0.5.1903.2902\\microsoft.quantum.development.kit.0.5.1903.2902.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\microsoft.quantum.simulators\\0.5.1903.2902\\microsoft.quantum.simulators.0.5.1903.2902.nupkg.sha512",
+    "C:\\Users\\Paradox\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

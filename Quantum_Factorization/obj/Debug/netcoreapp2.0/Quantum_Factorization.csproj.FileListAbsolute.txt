@@ -1,0 +1,37 @@
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/obj/Debug/netcoreapp2.0/Quantum_Factorization.csprojAssemblyReference.cache
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/obj/Debug/netcoreapp2.0/Quantum_Factorization.csproj.CoreCompileInputs.cache
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/obj/Debug/netcoreapp2.0/Quantum_Factorization.AssemblyInfoInputs.cache
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/obj/Debug/netcoreapp2.0/Quantum_Factorization.AssemblyInfo.cs
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/bin/Debug/netcoreapp2.0/Quantum_Factorization.deps.json
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/bin/Debug/netcoreapp2.0/Quantum_Factorization.runtimeconfig.json
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/bin/Debug/netcoreapp2.0/Quantum_Factorization.runtimeconfig.dev.json
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/bin/Debug/netcoreapp2.0/Quantum_Factorization.dll
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/bin/Debug/netcoreapp2.0/Quantum_Factorization.pdb
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/obj/Debug/netcoreapp2.0/Quantum_Factorization.dll
+/home/maven/Sem_II/IPSC/Project/Repository/ipsc_quantum_algorithm_qsharp/Quantum_Factorization/obj/Debug/netcoreapp2.0/Quantum_Factorization.pdb
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.deps.json
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.runtimeconfig.json
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.runtimeconfig.dev.json
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.dll
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.pdb
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.csproj.AssemblyReference.cache
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.AssemblyInfoInputs.cache
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.AssemblyInfo.cs
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.csproj.CoreCompileInputs.cache
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.dll
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.pdb
+D:\Downloads\New Folder (2)\Shors_quantum_algorithm_qsharp-master\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.genruntimeconfig.cache
+C:\Users\Paradox\Documents\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.deps.json
+C:\Users\Paradox\Documents\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.runtimeconfig.json
+C:\Users\Paradox\Documents\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.runtimeconfig.dev.json
+C:\Users\Paradox\Documents\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.dll
+C:\Users\Paradox\Documents\Quantum_Factorization\bin\Debug\netcoreapp2.0\Quantum_Factorization.pdb
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.csproj.AssemblyReference.cache
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.AssemblyInfoInputs.cache
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.AssemblyInfo.cs
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.csproj.CoreCompileInputs.cache
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.dll
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.pdb
+C:\Users\Paradox\Documents\Quantum_Factorization\obj\Debug\netcoreapp2.0\Quantum_Factorization.genruntimeconfig.cache

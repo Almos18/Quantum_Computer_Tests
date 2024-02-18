@@ -1,0 +1,12 @@
+:: files ::
+Shor_Algorithm.qs
+:: qsim ::
+:: references ::
+/home/maven/.nuget/packages/microsoft.quantum.canon/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Canon.dll
+/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll
+/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll
+/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll
+/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll
+:: command ::
+dotnet "/home/maven/.nuget/packages/microsoft.quantum.development.kit/0.5.1903.2902/build/../tools/qsc/qsc.dll" build --format MsBuild  --input "Shor_Algorithm.qs" --references "/home/maven/.nuget/packages/microsoft.quantum.canon/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Canon.dll" "/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll" "/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll" "/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll" "/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "/home/maven/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll" --output obj/qsharp/src/
